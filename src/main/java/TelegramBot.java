@@ -8,8 +8,8 @@ import java.net.MalformedURLException;
 
 public class TelegramBot {
 
-    private static final String TOKEN = "7687111136:AAELRkHTj1OH7tIo8FQPXZRXTaFsRvg22ZQ";
-    private static final String CHAT_ID = "-4521156455";
+    private static final String TOKEN = ""; //your token
+    private static final String CHAT_ID = "" // your chat id;
     
     
     
