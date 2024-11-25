@@ -20,5 +20,7 @@ Java Swing: For building the graphical user interface.
 Telegram Bot API: For sending messages to Telegram.
 SQLite: For data storage and operations.
 
-🚀 How to Run 
+🚀 Write me to launch. 
+
+I'm waiting something notes about my project. Comments and fix things are welcome :)
 
